@@ -10,6 +10,8 @@
 var longestPlaceName = "Taumatawhakatangihangakoauauotamateaturipukakapiki- maungahoronukupokaiwhenuakitanatahu";  
 
 console.log(longestPlaceName);
+console.log('second git practice');
+
 //Yes, this is a real place located in Porangahau, Central Hawke's Bay.
 
 
