@@ -35,7 +35,7 @@ console.log(longestPhrase);
 var iDidntKnow = "The national animal of Scotland is the Unicorn";
 
 var fifthLetter = iDidntKnow.charAt(5);
-console.log(fifthLetter);
+console.log("problem 2", fifthLetter);
 
 
 /*The indexOf() method returns the index (position) of the first occurence of a specified text in a string.*/
