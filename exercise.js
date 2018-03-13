@@ -55,6 +55,9 @@ console.log(worldLocator);
 
 var edward = "People are afraid of me because I am different";
 
+var scissorHand = edward.slice(7, 17);
+console.log(scissorHand);
+
 
 
 /*The replace() method replaces a specified value with another value in a string.*/
