@@ -9,8 +9,11 @@
 
 var longestPlaceName = "Taumatawhakatangihangakoauauotamateaturipukakapiki- maungahoronukupokaiwhenuakitanatahu";  
 
-console.log(longestPlaceName);
-console.log('second git practice');
+console.log(longestPlaceName.length);
+
+var howManyLetters = 87;
+
+console.log(howManyLetters);
 
 //Yes, this is a real place located in Porangahau, Central Hawke's Bay.
 
@@ -20,13 +23,16 @@ console.log('second git practice');
 "x is the longest place name in the world and has y letters in its name."
 where x represents the value at `longestPlaceName` and y represents the value at `howManyLetters`*/
 
+var longestPhrase = longestPlaceName + " is the longest place name in the world and has " + howManyLetters + " letters in its name.";
+
+console.log(longestPhrase);
+
 
 /*The string.charAt() method returns the character at the specified index (position).*/
 
 /*2. Declare a variable named `fifthLetter` and find out which letter is in the 5th position in the string below. Console.log your result.*/
 
 var iDidntKnow = "The national animal of Scotland is the Unicorn";
-
 
 
 /*The indexOf() method returns the index (position) of the first occurence of a specified text in a string.*/
