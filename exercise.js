@@ -77,6 +77,10 @@ console.log(theSifu);
 
 var bigTime = "BRUuHHHH, I AM DA GreaTest!";
 
+var smallKine = bigTime.toLowerCase();
+
+console.log(smallKine);
+
 
 
 /*The toUpperCase() method converts the characters in a string to upper case.*/
